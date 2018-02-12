@@ -8,5 +8,9 @@
 
 import Foundation
 
-print("Hello, World!")
+let myObj = MyClass()
+
+print(myObj.splitWord("TOOTSIE"))
+
+
 
